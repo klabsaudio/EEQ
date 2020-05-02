@@ -8,7 +8,7 @@ VST, AU, VST3 audio plugin made by [Kinaarlabs](https://github.com/kinaarlabs).
 
 Mac - [AU/VST3](https://github.com/kinaarlabs/eeq/raw/master/EEQ_AU_VST3.zip).
 
-Windows - [VST/VST3](https://en.wikipedia.org/wiki/Virtual_Studio_Technology).
+Windows - [VST/VST3](https://github.com/kinaarlabs/EEQ/raw/master/EEQ_VST_VST3.zip).
 
 ### Installation /
 
@@ -18,6 +18,8 @@ Mac :
 3. Move the ".vst3" file to /Library/Audio/Plug-Ins/VST3.
 
 Windows :
-1. WIP
+1. Unzip the file.
+2. Move the ".dll" file to C:\Program Files (x86)\VSTPlugIns or your custom plugin folder.
+3. Move the ".vst3" file to C:\Program Files (x86)\VSTPlugIns or your custom plugin folder.
 
 For any information : kinaarmusic@gmail.com.
