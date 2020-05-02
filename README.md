@@ -1,6 +1,6 @@
-## EEQ - IIR Lowpass Filter
+# EEQ - IIR Lowpass Filter
 
-You can use the [editor on GitHub](https://github.com/kinaarlabs/eeq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+EEQ is a VST, AU, VST3 audio plugin.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
