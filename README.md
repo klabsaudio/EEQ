@@ -1,10 +1,11 @@
-# Infinite Impluse Response Lowpass Filter
+# Infinite Impulse Response Lowpass Filter
 
 EEQ is a VST, AU, VST3 audio plugin made by [Kinaarlabs](https://github.com/kinaarlabs).
 
-### How to Install It ?
+### Downloads
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mac - [AU/VST3](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)
+Windows - [VST/VST3](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)
 
 ```markdown
 Syntax highlighted code block
