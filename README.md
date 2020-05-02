@@ -1,10 +1,8 @@
-# EEQ - IIR Lowpass Filter
+# Infinite Impluse Response Lowpass Filter
 
 EEQ is a VST, AU, VST3 audio plugin made by [Kinaarlabs](https://github.com/kinaarlabs).
 
-It is a simple IIR Lowpass Filter with a Cutoff, Resonance and Volume parameter.
-
-### Markdown
+### How to Install It ?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
