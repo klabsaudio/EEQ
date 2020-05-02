@@ -2,6 +2,8 @@
 
 VST, AU, VST3 audio plugin made by [Kinaarlabs](https://github.com/kinaarlabs).
 
+![EEQ GUI](https://github.com/kinaarlabs/eeq/blob/master/eeq_image.jpg)
+
 ### Downloads /
 
 Mac - [AU/VST3](https://github.com/kinaarlabs/eeq/raw/master/EEQ_AU_VST3.zip).
