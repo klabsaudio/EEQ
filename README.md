@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## EEQ - IIR Lowpass Filter
 
 You can use the [editor on GitHub](https://github.com/kinaarlabs/eeq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
